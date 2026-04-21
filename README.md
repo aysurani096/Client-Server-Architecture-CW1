@@ -1,6 +1,3 @@
-# Client-Server-Architecture-CW1
-Client Server Architecture CW1
-
 # Smart Campus RESTful API
 
 ## Overview of API Design
