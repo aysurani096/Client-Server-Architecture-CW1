@@ -163,4 +163,5 @@ From `ContainerResponseContext`:
 1. **HTTP status code** (`getStatus()`) — immediately tells you if the operation succeeded or failed and what kind of failure it was (4xx vs 5xx).
 2. **Response headers** (`getHeaders()`) — useful for debugging issues with content negotiation, CORS, caching, or checking the `Location` header on `201 Created` responses to verify the correct resource URL was returned.
 #   C l i e n t - S e r v e r - A r c h i t e c t u r e - C W 1  
+ #   C l i e n t - S e r v e r - A r c h i t e c t u r e - C W 1  
  
